@@ -1,0 +1,17 @@
+.karakterler {
+    background: white
+}
+
+.karakterler {
+    background: white;
+    max-width: 400px;
+    margin: auto;
+}
+
+.karakterler ul {
+    list-style: none;
+    text-align: left;
+    background: white;
+    max-width: 400px;
+    margin: auto;
+}
